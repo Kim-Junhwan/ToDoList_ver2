@@ -21,6 +21,7 @@
 		C745033C27B57135004902B8 /* ToDoList_ver2UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745033B27B57135004902B8 /* ToDoList_ver2UITestsLaunchTests.swift */; };
 		C745034927B62E85004902B8 /* LonginController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745034827B62E85004902B8 /* LonginController.swift */; };
 		C745034B27B62E90004902B8 /* RegisterController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745034A27B62E90004902B8 /* RegisterController.swift */; };
+		C745034D27B6ADBC004902B8 /* ListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C745034C27B6ADBC004902B8 /* ListController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,6 +65,7 @@
 		C745033B27B57135004902B8 /* ToDoList_ver2UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoList_ver2UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		C745034827B62E85004902B8 /* LonginController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LonginController.swift; sourceTree = "<group>"; };
 		C745034A27B62E90004902B8 /* RegisterController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterController.swift; sourceTree = "<group>"; };
+		C745034C27B6ADBC004902B8 /* ListController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListController.swift; sourceTree = "<group>"; };
 		E36F41DE0FFCF9D783205142 /* Pods_ToDoList_ver2Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ToDoList_ver2Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -152,6 +154,7 @@
 				C745032627B57135004902B8 /* Info.plist */,
 				C745034827B62E85004902B8 /* LonginController.swift */,
 				C745034A27B62E90004902B8 /* RegisterController.swift */,
+				C745034C27B6ADBC004902B8 /* ListController.swift */,
 			);
 			path = ToDoList_ver2;
 			sourceTree = "<group>";
@@ -417,6 +420,7 @@
 				C745031D27B57134004902B8 /* LogInViewController.swift in Sources */,
 				C745031927B57134004902B8 /* AppDelegate.swift in Sources */,
 				C745031B27B57134004902B8 /* SceneDelegate.swift in Sources */,
+				C745034D27B6ADBC004902B8 /* ListController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
